@@ -1,0 +1,3 @@
+/*
+ *  sheet (c)   => D. Strings
+ */
